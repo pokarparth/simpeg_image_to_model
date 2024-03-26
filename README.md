@@ -1,5 +1,6 @@
 # simpeg_image_to_model
-Create a SimPEG model given an image
+Create a SimPEG model given an image.
+
 Trying to recreate this GIFTools utility <https://giftoolscookbook.readthedocs.io/en/latest/content/recipes/other/imageInInversion.html>
 
 Intented for quick forward simulations given a synthetic example or geologic plan-map or cross-section. The function uses a default Tensor mesh if no external mesh defined.
